@@ -3,7 +3,7 @@
 using namespace std;
 
 void printMyName () {
-	cout << "gregor mandikj"
+	cout gregor mandikj
 }
 
 void printMyIndex () {
