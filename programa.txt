@@ -15,5 +15,5 @@ void printMyIndex () {
 }
 
 int main () {
-	//TODO
+	izvrsete se
 }
